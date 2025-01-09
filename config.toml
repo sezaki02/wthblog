@@ -23,6 +23,10 @@ name = "Contact"
 url = "https://cinemahole.carrd.co"
 weight = 10
 
+[params.homeInfoParams]
+Title = "Hi there!"
+Content = "洋画と洋ゲーが好きなオタクのインターネット。Ben H. Wintersのファンです。/ 瀬崎"
+
 [Params.social]
   twitter = "https://twitter.com/yourusername"
   github = "https://github.com/yourusername"
@@ -36,7 +40,3 @@ favicon = "/favicon.ico"
 favicon16x16 = "/favicon-16x16.png"
 favicon32x32 = "/favicon-32x32.png"
 apple_touch_icon = "/apple-touch-icon.png"
-
-[params.homeInfoParams]
-Title = "Hi there!"
-Content = "洋画と洋ゲーが好きなオタクのインターネット。Ben H. Wintersのファンです。/ 瀬崎"
