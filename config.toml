@@ -1,0 +1,38 @@
+baseURL = 'https://cinemahole.blue/'
+languageCode = 'en-us'
+title = 'wth'
+theme = "PaperMod"
+canonifyurls = true
+publishdir = "public"
+
+[[menu.main]]
+identifier = "archives"
+name = "Archive"
+url = "/archives/"
+weight = 20
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 10
+
+[[menu.main]]
+identifier = "Contact"
+name = "Contact"
+url = "https://cinemahole.carrd.co"
+weight = 10
+
+
+
+
+
+[params.assets]
+favicon = "/favicon.ico"
+favicon16x16 = "/favicon-16x16.png"
+favicon32x32 = "/favicon-32x32.png"
+apple_touch_icon = "/apple-touch-icon.png"
+
+[params.homeInfoParams]
+Title = "Hi there!"
+Content = "洋画と洋ゲーが好きなオタクのインターネット。Ben H. Wintersのファンです。/ 瀬崎"
