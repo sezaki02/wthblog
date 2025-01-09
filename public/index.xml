@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>wth</title>
     <link>https://cerulean-lebkuchen-7cd32b.netlify.app/</link>
     <description>Recent content on wth</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Jul 2024 17:48:53 +0900</lastBuildDate>
     <atom:link href="https://cerulean-lebkuchen-7cd32b.netlify.app/index.xml" rel="self" type="application/rss+xml" />
@@ -132,8 +132,7 @@
 &lt;p&gt;日記という形で記録を取らなくても、現代は写真を取ったりその他様々なアクティビティがスマートフォンに記録されるおかげで、過去の蓄積、あるいはそうした蓄積の閲覧がとても容易になりました。写真アプリが「数年前の今日はこんなことをしていましたよ」と過去の同じ日付に撮った写真をピックアップして通知してくれたり、そういうことをきっかけに振り返りをするのはそれなりに楽しいなと思います。&lt;/p&gt;
 &lt;h3 id=&#34;ジャーナルでお手軽に記録をつけよう&#34;&gt;ジャーナルでお手軽に記録をつけよう&lt;/h3&gt;
 &lt;p&gt;ジャーナルはそうした便利機能を、敢えて「日記」のかたちで残すことができる機能です。撮った写真はもちろん、フィットネスや聴いた音楽など、その日に記録されているログを呼び出して利用することができます。ゼロから日記を書こうとするとなかなかハードルが高いですが、こうした情報を引用することによって「一言でも書いておこう」と思えたり、ただその情報を貼り付けておくだけでも日記をつけたことになる。「これまで日記をつける習慣がなかったけれど始めてみたい」という人にはとてもいいものだと思いますし、このちょっとしたログの積み重ねを数ヶ月とか一年とか後になって振り返ったらとても楽しいのではないかと思います。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://cerulean-lebkuchen-7cd32b.netlify.app/img/img_journal.jpeg&#34; alt=&#34;Journal&#34;  /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Journal&#34; loading=&#34;lazy&#34; src=&#34;https://cerulean-lebkuchen-7cd32b.netlify.app/img/img_journal.jpeg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;自分は試しに今日聴いた音楽を記録してみました。これも年末になればiTunesが「今年の再生回数ベスト」とかを出してくれるので逐一記録してなにかメリットがある……というわけでもないんですが、あとでジャーナルを見返して「この時期はこんな曲を聴いていたんだな」と思い出しても楽しそうなので、気が向いたら書き留めてみたいと思います。&lt;/p&gt;</description>
     </item>
     <item>
@@ -218,8 +217,7 @@
       <link>https://cerulean-lebkuchen-7cd32b.netlify.app/posts/2023best90min/</link>
       <pubDate>Thu, 28 Dec 2023 22:55:22 +0900</pubDate>
       <guid>https://cerulean-lebkuchen-7cd32b.netlify.app/posts/2023best90min/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://cerulean-lebkuchen-7cd32b.netlify.app/img/2023movies.png&#34; alt=&#34;I&amp;rsquo;ve been watched in 2023&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;I&amp;rsquo;ve been watched in 2023&#34; loading=&#34;lazy&#34; src=&#34;https://cerulean-lebkuchen-7cd32b.netlify.app/img/2023movies.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;今年映画館で見た３選はてがろぐでやったので、とりあえず今年見た旧作特に好きな5本（90分以上）を記録しておきます。&lt;/p&gt;
 &lt;h2 id=&#34;凱里ブルース&#34;&gt;凱里ブルース&lt;/h2&gt;
 &lt;p&gt;過去と未来と現在がシームレスな円環で繋がっていて、とてつもないクオリティの明晰夢を見せられている感じでした。じっくりもう一回見たいです。&lt;/p&gt;
@@ -721,8 +719,7 @@
       <link>https://cerulean-lebkuchen-7cd32b.netlify.app/posts/230311-2/</link>
       <pubDate>Sat, 11 Mar 2023 16:58:48 +0900</pubDate>
       <guid>https://cerulean-lebkuchen-7cd32b.netlify.app/posts/230311-2/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://cerulean-lebkuchen-7cd32b.netlify.app/img/img02.jpg&#34; alt=&#34;halo reach&#34;  /&gt;
-
+      <description>&lt;p&gt;&lt;img alt=&#34;halo reach&#34; loading=&#34;lazy&#34; src=&#34;https://cerulean-lebkuchen-7cd32b.netlify.app/img/img02.jpg&#34;&gt;
 すまないが俺にはこのテーマで思い通りのメニューを作ることがまだ難しいみたいだ。&lt;/p&gt;
 &lt;p&gt;そんなこんなでゲームが進んでいない。いやちょっとそろそろゲームをしよう。&lt;/p&gt;</description>
     </item>
