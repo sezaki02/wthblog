@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on wth</title>
+    <link>https://cerulean-lebkuchen-7cd32b.netlify.app/tags/</link>
+    <description>Recent content in Tags on wth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jul 2024 17:48:53 +0900</lastBuildDate>
+    <atom:link href="https://cerulean-lebkuchen-7cd32b.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>映画</title>
+      <link>https://cerulean-lebkuchen-7cd32b.netlify.app/tags/%E6%98%A0%E7%94%BB/</link>
+      <pubDate>Wed, 24 Jul 2024 17:48:53 +0900</pubDate>
+      <guid>https://cerulean-lebkuchen-7cd32b.netlify.app/tags/%E6%98%A0%E7%94%BB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>App</title>
+      <link>https://cerulean-lebkuchen-7cd32b.netlify.app/tags/app/</link>
+      <pubDate>Thu, 18 Jan 2024 15:52:42 +0900</pubDate>
+      <guid>https://cerulean-lebkuchen-7cd32b.netlify.app/tags/app/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gadget</title>
+      <link>https://cerulean-lebkuchen-7cd32b.netlify.app/tags/gadget/</link>
+      <pubDate>Mon, 30 Oct 2023 09:17:31 +0900</pubDate>
+      <guid>https://cerulean-lebkuchen-7cd32b.netlify.app/tags/gadget/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SESSION</title>
+      <link>https://cerulean-lebkuchen-7cd32b.netlify.app/tags/session/</link>
+      <pubDate>Sat, 18 Mar 2023 16:43:07 +0900</pubDate>
+      <guid>https://cerulean-lebkuchen-7cd32b.netlify.app/tags/session/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GAME</title>
+      <link>https://cerulean-lebkuchen-7cd32b.netlify.app/tags/game/</link>
+      <pubDate>Sat, 11 Mar 2023 19:05:15 +0900</pubDate>
+      <guid>https://cerulean-lebkuchen-7cd32b.netlify.app/tags/game/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SHERLOCK HOLMES</title>
+      <link>https://cerulean-lebkuchen-7cd32b.netlify.app/tags/sherlock-holmes/</link>
+      <pubDate>Sat, 11 Mar 2023 19:05:15 +0900</pubDate>
+      <guid>https://cerulean-lebkuchen-7cd32b.netlify.app/tags/sherlock-holmes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Halo</title>
+      <link>https://cerulean-lebkuchen-7cd32b.netlify.app/tags/halo/</link>
+      <pubDate>Sat, 11 Mar 2023 16:58:48 +0900</pubDate>
+      <guid>https://cerulean-lebkuchen-7cd32b.netlify.app/tags/halo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://cerulean-lebkuchen-7cd32b.netlify.app/tags/hugo/</link>
+      <pubDate>Fri, 10 Mar 2023 12:24:05 +0900</pubDate>
+      <guid>https://cerulean-lebkuchen-7cd32b.netlify.app/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Note</title>
+      <link>https://cerulean-lebkuchen-7cd32b.netlify.app/tags/note/</link>
+      <pubDate>Fri, 10 Mar 2023 12:24:05 +0900</pubDate>
+      <guid>https://cerulean-lebkuchen-7cd32b.netlify.app/tags/note/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SESSION on wth</title>
+    <link>https://cerulean-lebkuchen-7cd32b.netlify.app/tags/session/</link>
+    <description>Recent content in SESSION on wth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Mar 2023 16:43:07 +0900</lastBuildDate>
+    <atom:link href="https://cerulean-lebkuchen-7cd32b.netlify.app/tags/session/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SESSIONをメモ帳として使う</title>
+      <link>https://cerulean-lebkuchen-7cd32b.netlify.app/posts/230318/</link>
+      <pubDate>Sat, 18 Mar 2023 16:43:07 +0900</pubDate>
+      <guid>https://cerulean-lebkuchen-7cd32b.netlify.app/posts/230318/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://getsession.org/&#34;&gt;SESSION&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Send Messages,Not Metadataである。純然たるメッセンジャーアプリだがアカウントを知っている知り合いも特にいないので、個人的なメモ帳として利用している。UpNoteあたりに書き留めてもいいのだが、タイトル別に仕分けるより漠然とだらだら書き連ねる方が気楽な場合も多々としてある。&lt;/p&gt;
+&lt;p&gt;ウェブ記事の一部分だけ抜粋してメモしておきたい時、SESSIONにペーストして適当な訳文をつけておく。あとは見た映画とか読んだ本とか、自分専用の独り言ツールと化している。雑然として押し流されていくが、後になってカオスを遡っていくのもまた面白い。&lt;/p&gt;
+&lt;p&gt;SESSIONは登録に電話番号もいらないので、導入のハードルがだいぶん低いのもいい。実用の上ではどうかという話はあるだろうが。そんなところ。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

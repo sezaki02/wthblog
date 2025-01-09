@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on wth</title>
+    <link>https://cerulean-lebkuchen-7cd32b.netlify.app/tags/hugo/</link>
+    <description>Recent content in Hugo on wth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Mar 2023 12:24:05 +0900</lastBuildDate>
+    <atom:link href="https://cerulean-lebkuchen-7cd32b.netlify.app/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugoを導入してみる</title>
+      <link>https://cerulean-lebkuchen-7cd32b.netlify.app/posts/my-first-post/</link>
+      <pubDate>Fri, 10 Mar 2023 12:24:05 +0900</pubDate>
+      <guid>https://cerulean-lebkuchen-7cd32b.netlify.app/posts/my-first-post/</guid>
+      <description>&lt;p&gt;最近訪問先のブログがHugoを利用していることが多く、気になったので自分も導入してみることにした。元々がHTML手打ちから始めた身としては、ローカルで管理編集できるのが何よりいい。生成も早い。一旦構築してしまえばあとは記事を書いて流していくだけだ。細かい調整はまだだが、これからやっていく。&lt;/p&gt;
+&lt;p&gt;作成にあたり参考にさせて頂いた本がとても良かったので、以下。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nextpublishing.jp/book/12720.html&#34;&gt;Hugoで始める静的サイト構築入門　静的サイトジェネレーターで作る自作サイト&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
