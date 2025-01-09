@@ -23,6 +23,10 @@ name = "Contact"
 url = "https://cinemahole.carrd.co"
 weight = 10
 
+[Params.social]
+  twitter = "https://twitter.com/yourusername"
+  github = "https://github.com/yourusername"
+  linkedin = "https://linkedin.com/in/yourusername"
 
 
 
